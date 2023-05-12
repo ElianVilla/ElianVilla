@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Estudiante de Ingeniería de Sistemas en busca de nuevas oportunidades para aplicar mis conocimientos y seguir creciendo como desarrollador.<br>✨ Desarrollador Full-Stack con habilidades en Frontend y Backend.<br>❤️ Apasionado por la programación y la creación de soluciones innovadoras.<br>🤝 Me encanta trabajar en equipo y colaborar en proyectos emocionantes.<br>🤓 En constante aprendizaje de nuevas tecnologías y técnicas para crear aplicaciones web rápidas, seguras y escalables.<br>🔍 Siempre buscando formas de mejorar mis habilidades y contribuyendo a proyectos de código abierto.
+🧑‍💻 Estudiante de Ingeniería de Sistemas en busca de nuevas oportunidades para aplicar mis conocimientos y seguir creciendo como desarrollador.<br>✨ Desarrollador Full-Stack con habilidades en Frontend y Backend.<br>❤️ Apasionado por la programación y la creación de soluciones innovadoras.<br>🤝 Me encanta trabajar en equipo y colaborar en proyectos emocionantes.<br>🤓 En constante aprendizaje de nuevas tecnologías y técnicas para crear aplicaciones web rápidas, seguras y escalables.<br>🔍 Siempre buscando formas de mejorar mis habilidades.
 
 
 ## 🌐 Socials:
